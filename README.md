@@ -7,7 +7,7 @@ Each problem is documented with a clear problem statement, business context,
 and the SQL category used (Basics, Joins, Aggregations, Subqueries/CTEs, Window Functions).
 
 ## 🔗 Platform
-- LeetCode SQL Problems: https://leetcode.com/problemset/database/
+- LeetCode SQL Problems solutions 
 
 ## 📂 Repository Structure
 
@@ -39,3 +39,4 @@ that demonstrates my ability to write clear, structured, and production-ready SQ
 ---
 
 📈 This repository is updated regularly as I solve more problems.
+
