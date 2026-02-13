@@ -40,3 +40,5 @@ that demonstrates my ability to write clear, structured, and production-ready SQ
 
 📈 This repository is updated regularly as I solve more problems.
 
+
+Leetcode:  https://leetcode.com/problem-list/database/
