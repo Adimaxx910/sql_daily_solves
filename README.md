@@ -1,4 +1,4 @@
-# SQL LeetCode Problem Solving Portfolio
+# SQL LeetCode Problem Solving 
 
 This repository contains my solutions to SQL problems from **LeetCode**, focused on
 building strong fundamentals and real-world data analytics skills.
@@ -30,7 +30,7 @@ and the SQL category used (Basics, Joins, Aggregations, Subqueries/CTEs, Window 
 - One problem per `.sql` file
 - Short, clear problem statement at the top of each file
 - Clean and readable SQL
-- Focus on correctness and interview-ready solutions
+- Focus on  understanding the concepts
 
 ## 🎯 Goal
 To build a consistent SQL problem-solving habit and maintain a public portfolio
@@ -38,7 +38,5 @@ that demonstrates my ability to write clear, structured, and production-ready SQ
 
 ---
 
-📈 This repository is updated regularly as I solve more problems.
-
-
 Leetcode:  https://leetcode.com/problem-list/database/
+
